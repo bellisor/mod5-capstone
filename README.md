@@ -21,6 +21,11 @@ From there, we create three matrices of user behavior (purchased or played a gam
 Overall, the recommendation works fairly well. Even with such a low precision score (0.80) the games that are recommended still fall within similar genre and scope to games the user purchased. Currently, the recommendation system only contains about 3600 games. I’d like to expand its library and also create a better metric evaluation that accounts for genre and other tags. 
 
 ## Files:
+1_data_harvest: Gather the data
+2_data_cleaning: Clean and produce workable dataframes
+3_eda_and_modeling: data exploration and feature engineering
+4_steam_recommendation: create recommendations
+5_recommednation_visualizations: create visuals for presentation
 
 ## References:
 
